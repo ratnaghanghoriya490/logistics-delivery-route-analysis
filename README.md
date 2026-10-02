@@ -21,11 +21,9 @@ The objective is to analyze delivery delays, optimize routes, improve shipment e
 
 ## Project Files
 
-- `Logistics_Project_Final.sql.sql` - SQL queries and analysis
-- `Logistics SQL Project ppt.pptx` - Project presentation
-- `C4_Project.pdf` - Project details and problem statement
-  
 - [Logistics_Project_Final.sql.sql](./Logistics_Project_Final.sql.sql) - SQL queries and analysis
+- [Logistics SQL Project ppt.pptx](./Logistics SQL Project ppt.pptx) - Project presentation
+- [C4_Project.pdf](./C4_Project.pdf) - Project details and problem statement
   
 ## Business Use Case
 
